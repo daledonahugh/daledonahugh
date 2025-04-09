@@ -1,6 +1,10 @@
 ## Hi there 👋
 🐧
 🍞
+im trying to learn git. 🎓
+
+working on my "pajasso" application 🕰
+
 <!--
 **daledonahugh/daledonahugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
